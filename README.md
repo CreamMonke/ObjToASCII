@@ -1,5 +1,7 @@
 # ObjToASCII
 
+Using matrices, a given .obj file's vertices will be rendered as a 3D image in the console with perspective.
+
 WASD - Translate
 
 Arrow Keys - Rotate
